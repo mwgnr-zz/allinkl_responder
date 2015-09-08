@@ -1,0 +1,14 @@
+{
+    "name": "mwgnr/allinkl_responder",
+    "type": "roundcube-plugin",
+    "license": "ALv2",
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://plugins.roundcube.net"
+        }
+    ],
+    "require": {
+        "roundcube/plugin-installer": ">=0.1.6"
+    }
+}
